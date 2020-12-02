@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\bin\Debug\netcoreapp3.1\AulaPOO-Aluno.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\bin\Debug\netcoreapp3.1\AulaPOO-Aluno.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\bin\Debug\netcoreapp3.1\AulaPOO-Aluno.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\bin\Debug\netcoreapp3.1\AulaPOO-Aluno.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\bin\Debug\netcoreapp3.1\AulaPOO-Aluno.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\bin\Debug\netcoreapp3.1\AulaPOO-Aluno.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Aluno\obj\Debug\netcoreapp3.1\AulaPOO-Aluno.genruntimeconfig.cache
